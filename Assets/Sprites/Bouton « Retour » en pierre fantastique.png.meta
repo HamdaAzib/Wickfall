@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 2d67f131a50eab34985f2258be1987b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8908378728619567765
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_0"
+  - first:
+      213: -1305042679474701702
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_1"
+  - first:
+      213: 8765229137905475609
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_2"
+  - first:
+      213: 1611593696851994777
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_3"
+  - first:
+      213: 8670813719120776332
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_4"
+  - first:
+      213: -8141824634591553536
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_5"
+  - first:
+      213: 2228012439437162068
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_6"
+  - first:
+      213: 4555848965420116387
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_7"
+  - first:
+      213: 5541232216092697895
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_8"
+  - first:
+      213: -2402190710935592868
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_9"
+  - first:
+      213: -1540611056832686160
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_10"
+  - first:
+      213: 595255003457789081
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_11"
+  - first:
+      213: 5452841997668768809
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_12"
+  - first:
+      213: 6336654563509775664
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_13"
+  - first:
+      213: -4461758938073136909
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_14"
+  - first:
+      213: 5258538299337054877
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_15"
+  - first:
+      213: 8473352031131185634
+    second: "Bouton \xAB Retour \xBB en pierre fantastique_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_0"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 1986
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b651cf3beb41f5480800000000000000
+      internalID: -8908378728619567765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_1"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abf21f89e83ede0800000000000000
+      internalID: -1305042679474701702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_2"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 25
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91062c3f57954a970800000000000000
+      internalID: 8765229137905475609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_3"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 23
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982f1fbde78d5610800000000000000
+      internalID: 1611593696851994777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_4"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c07c9332be45870800000000000000
+      internalID: 8670813719120776332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_5"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 42
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00855afc1ad620f80800000000000000
+      internalID: -8141824634591553536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_6"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456bdc7528d7bee10800000000000000
+      internalID: 2228012439437162068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_7"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 25
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a962320f70a93f30800000000000000
+      internalID: 4555848965420116387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_8"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 23
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725e722875966ec40800000000000000
+      internalID: 5541232216092697895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_9"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50e0f79644b9aed0800000000000000
+      internalID: -2402190710935592868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_10"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 35
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d2740866ae9ae0800000000000000
+      internalID: -1540611056832686160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_11"
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c10e79545c24800800000000000000
+      internalID: 595255003457789081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_12"
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 33
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd06f08e26cab40800000000000000
+      internalID: 5452841997668768809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_13"
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dab52a0c150f750800000000000000
+      internalID: 6336654563509775664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_14"
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00abe92e5a412c0800000000000000
+      internalID: -4461758938073136909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_15"
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a95c9e8b41af840800000000000000
+      internalID: 5258538299337054877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bouton \xAB Retour \xBB en pierre fantastique_16"
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b86057c4679570800000000000000
+      internalID: 8473352031131185634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Bouton \xAB Retour \xBB en pierre fantastique_0": -8908378728619567765
+      "Bouton \xAB Retour \xBB en pierre fantastique_1": -1305042679474701702
+      "Bouton \xAB Retour \xBB en pierre fantastique_10": -1540611056832686160
+      "Bouton \xAB Retour \xBB en pierre fantastique_11": 595255003457789081
+      "Bouton \xAB Retour \xBB en pierre fantastique_12": 5452841997668768809
+      "Bouton \xAB Retour \xBB en pierre fantastique_13": 6336654563509775664
+      "Bouton \xAB Retour \xBB en pierre fantastique_14": -4461758938073136909
+      "Bouton \xAB Retour \xBB en pierre fantastique_15": 5258538299337054877
+      "Bouton \xAB Retour \xBB en pierre fantastique_16": 8473352031131185634
+      "Bouton \xAB Retour \xBB en pierre fantastique_2": 8765229137905475609
+      "Bouton \xAB Retour \xBB en pierre fantastique_3": 1611593696851994777
+      "Bouton \xAB Retour \xBB en pierre fantastique_4": 8670813719120776332
+      "Bouton \xAB Retour \xBB en pierre fantastique_5": -8141824634591553536
+      "Bouton \xAB Retour \xBB en pierre fantastique_6": 2228012439437162068
+      "Bouton \xAB Retour \xBB en pierre fantastique_7": 4555848965420116387
+      "Bouton \xAB Retour \xBB en pierre fantastique_8": 5541232216092697895
+      "Bouton \xAB Retour \xBB en pierre fantastique_9": -2402190710935592868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
